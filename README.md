@@ -5,7 +5,7 @@ Proyecto a base de hidrocultivos
 - [x] compañias agricultoras
 ## Objetivos del proyecto
 ### Costos
-material | costo | tiempo
----------|-------|-------
-Mineral | 21331 | 2 meses
-Tuberias | 100 | 2 meses
+| material | costo | tiempo |
+| ---------|-------|------- |
+| Mineral | 21331 | 2 meses |
+| Tuberias | 100 | 2 meses |
