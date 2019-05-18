@@ -1,3 +1,4 @@
 # FarmCheck
-## OwO
+Proyecto a base de hidrocultivos
 :octocat:
+## Objetivos del proyecto
