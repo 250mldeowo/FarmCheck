@@ -1,6 +1,8 @@
 # FarmCheck
 Proyecto a base de hidrocultivos
-:octocat:
+## Que es lo que abarca
+- [ ] Agricultores
+- [x] compañias agricultoras
 ## Objetivos del proyecto
 ### Costos
 material | costo | tiempo
